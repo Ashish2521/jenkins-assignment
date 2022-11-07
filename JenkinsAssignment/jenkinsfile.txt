@@ -4,7 +4,7 @@ agent any
 stages {
 stage('Clone repo') {
             steps {
-               git url: 'https://github.com/Ashish2521/jenkins-assignment.git', branch: 'main'
+               git url: 'https://github.com/Ashish2521/jenkins-assignment.git', branch: 'master'
             }
         }
        stage('Build image') {
