@@ -301,11 +301,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASharma2\\OneDrive - Affinion Group\\Desktop\\trainings\\Jenkins\\JenkinsAssignment\\JenkinsAssihnment.csproj",
+      "projectUniqueName": "C:\\Users\\ASharma2\\OneDrive - Affinion Group\\Desktop\\trainings\\Jenkins\\JenkinsAssihnment.csproj",
       "projectName": "JenkinsAssihnment",
-      "projectPath": "C:\\Users\\ASharma2\\OneDrive - Affinion Group\\Desktop\\trainings\\Jenkins\\JenkinsAssignment\\JenkinsAssihnment.csproj",
+      "projectPath": "C:\\Users\\ASharma2\\OneDrive - Affinion Group\\Desktop\\trainings\\Jenkins\\JenkinsAssihnment.csproj",
       "packagesPath": "C:\\Users\\ASharma2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASharma2\\OneDrive - Affinion Group\\Desktop\\trainings\\Jenkins\\JenkinsAssignment\\obj\\",
+      "outputPath": "C:\\Users\\ASharma2\\OneDrive - Affinion Group\\Desktop\\trainings\\Jenkins\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASharma2\\AppData\\Roaming\\NuGet\\NuGet.Config",
